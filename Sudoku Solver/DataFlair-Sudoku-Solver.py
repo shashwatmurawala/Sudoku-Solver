@@ -90,7 +90,7 @@ def displayNumbers(img, numbers, color=(0, 255, 0)):
     return img
 
 # Read image
-img = cv2.imread('sudoku2.jpg')
+img = cv2.imread('sudoku1.jpg')
 
 
 # extract board from input image
